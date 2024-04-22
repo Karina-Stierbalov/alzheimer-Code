@@ -28,7 +28,7 @@ function App(){
    <Tecla onClick={handleclick} value="2"/>
    <Tecla onClick={handleclick} value="3"/>
    <Tecla onClick={handleclick} value="4"/>
-   
+   <Text>TEste</Text>
    <Tecla onClick={handleclick} value="5"/>
    <Tecla onClick={handleclick} value="6"/>
    <Tecla onClick={handleclick} value="7"/>
